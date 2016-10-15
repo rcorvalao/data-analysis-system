@@ -4,7 +4,7 @@ Um sistema de análise de dados. O sistema é capaz de importar lotes de arquivo
 
 
 Layout dos Arquivo simples
- 
+
 Existem 3 tipos de dados dentro desses arquivos. Para cada tipo de dados, há um layout diferente.
  
 Dados Vendedor
